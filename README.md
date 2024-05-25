@@ -1,2 +1,3 @@
-# Boo_Fortune_Bot
+# Boo Fortune Bot
+
 Terminal Application
